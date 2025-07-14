@@ -1,6 +1,0 @@
-if SHIELD_GIGAPEDALS
-
-config ZMK_KEYBOARD_NAME
-    default "gigapedals"
-
-endif

@@ -1,2 +1,0 @@
-config SHIELD_GIGAPEDALS
-    def_bool $(shields_list_contains,gigapedals)
